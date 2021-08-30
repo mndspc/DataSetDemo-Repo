@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<EmployeeData>
+  <EmpMaster>
+    <EmpCode>5</EmpCode>
+    <EmpName>Adam</EmpName>
+    <DateOfBirth>1980-03-05T00:00:00+05:30</DateOfBirth>
+    <Email>adam@gmail.com</Email>
+    <DeptCode>100</DeptCode>
+  </EmpMaster>
+  <EmpMaster>
+    <EmpCode>6</EmpCode>
+    <EmpName>Marry</EmpName>
+    <DateOfBirth>1981-03-05T00:00:00+05:30</DateOfBirth>
+    <Email>marry@gmail.com</Email>
+    <DeptCode>102</DeptCode>
+  </EmpMaster>
+  <EmpMaster>
+    <EmpCode>7</EmpCode>
+    <EmpName>Jhones</EmpName>
+    <DateOfBirth>1981-03-05T00:00:00+05:30</DateOfBirth>
+    <Email>jhones@gmail.com</Email>
+    <DeptCode>100</DeptCode>
+  </EmpMaster>
+</EmployeeData>

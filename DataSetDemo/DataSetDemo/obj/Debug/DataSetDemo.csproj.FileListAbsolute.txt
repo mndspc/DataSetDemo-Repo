@@ -1,0 +1,7 @@
+D:\Corporate\Vinsys\JK Tech\ADO.Net\DataSetDemo-Repo\DataSetDemo\DataSetDemo\bin\Debug\DataSetDemo.exe.config
+D:\Corporate\Vinsys\JK Tech\ADO.Net\DataSetDemo-Repo\DataSetDemo\DataSetDemo\bin\Debug\DataSetDemo.exe
+D:\Corporate\Vinsys\JK Tech\ADO.Net\DataSetDemo-Repo\DataSetDemo\DataSetDemo\bin\Debug\DataSetDemo.pdb
+D:\Corporate\Vinsys\JK Tech\ADO.Net\DataSetDemo-Repo\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.csprojAssemblyReference.cache
+D:\Corporate\Vinsys\JK Tech\ADO.Net\DataSetDemo-Repo\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.csproj.CoreCompileInputs.cache
+D:\Corporate\Vinsys\JK Tech\ADO.Net\DataSetDemo-Repo\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.exe
+D:\Corporate\Vinsys\JK Tech\ADO.Net\DataSetDemo-Repo\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.pdb
